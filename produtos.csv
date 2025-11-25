@@ -1,0 +1,121 @@
+id_produto,nome,categoria,preco,estoque
+1,Teriyaki Sauce,Beleza,946.31,259
+2,Fitness Balance Ball,Games,1165.47,19
+3,Zucchini,Acessorios,495.62,299
+4,Green Smoothie Mix,Acessorios,834.59,12
+5,Pet Hair Vacuum Cleaner Attachment,Casa,94.08,276
+6,Digital Kitchen Timer,Games,400.38,233
+7,Insulated Coffee Mug,Casa,75.66,141
+8,Board Game Storage,Beleza,539.67,288
+9,Compact Pop-Up Tent,Acessorios,957.86,163
+10,Chicken Broth,Casa,1347.04,290
+11,Home Brewing Starter Kit,Beleza,305.65,97
+12,Smart Plug,Moda,1097.18,282
+13,Juice Extractor,Acessorios,305.31,24
+14,Chicken Salad Kit,Acessorios,972.78,268
+15,Rechargeable Electric Screwdriver,Eletrônicos,313.52,75
+16,Fresh Lemons,Casa,780.05,241
+17,Almond Butter Cups,Eletrônicos,1331.02,86
+18,Magnetic Chess Set,Eletrônicos,1398.97,242
+19,Electric Rice Cooker,Moda,132.75,73
+20,Chilli Lime Corn on the Cob,Games,116.41,207
+21,Puzzle 3D Model Kit,Beleza,1457.78,6
+22,Portable Pet Water Bottle,Acessorios,871.03,156
+23,Hummus Variety Pack,Games,1475.92,287
+24,Tropical Fruit Bowl,Beleza,520.62,230
+25,Pepper Jack Cheese Slices,Acessorios,71.69,112
+26,Creamy Coleslaw Mix,Acessorios,773.06,284
+27,Whole Grain Hamburger Buns,Eletrônicos,764.04,218
+28,First Aid Kit,Eletrônicos,903.7,64
+29,Pepperoni Pizza Roll-Ups,Acessorios,628.67,278
+30,Relaxed Fit Henley Shirt,Games,285.39,229
+31,Bock Beer Mustard,Casa,1181.51,39
+32,Reusable Coffee Filter,Casa,724.14,247
+33,Fleece Hoodie,Acessorios,40.39,217
+34,Chocolate Chip Cliff Bars,Casa,1476.41,223
+35,Wireless Keyboard and Mouse Combo,Casa,751.86,209
+36,Smartphone Car Mount with Wireless Charging,Beleza,155.7,117
+37,Spinach Artichoke Dip,Moda,1466.95,84
+38,Chocolate Mint Protein Shake,Games,210.26,299
+39,Noise Reduction Headphones,Acessorios,862.42,286
+40,Peanut Butter Banana Smoothie,Eletrônicos,956.44,53
+41,Wrap Front Midi Skirt,Acessorios,368.88,298
+42,Magnetic Puzzle Board,Acessorios,854.94,200
+43,Honey Sesame Chicken Mix,Casa,154.02,96
+44,Portable Speakers,Casa,113.0,274
+45,Granola,Eletrônicos,371.0,119
+46,Portable Laptop Table,Games,1253.65,27
+47,Portable Projector,Beleza,757.2,235
+48,Cherry Almond Protein Bar,Casa,1283.03,248
+49,Hibiscus Tea Bags,Acessorios,290.75,160
+50,Insulated Lunch Bag,Moda,635.81,238
+51,Cinnamon Sugar Popcorn,Moda,15.9,278
+52,Bamboo Toothbrush Holder,Acessorios,872.33,295
+53,Honey Sesame Chicken Mix,Acessorios,738.7,60
+54,Coconut Yogurt,Games,601.62,117
+55,Garlic Parmesan Roasted Potatoes,Moda,1423.04,164
+56,Interactive Plush Toy,Moda,411.36,236
+57,Organic Whole Wheat Flour,Games,798.15,296
+58,Reversible Swimming Pool Lounger,Games,1139.39,19
+59,Nut Mix,Casa,142.81,36
+60,Outdoor Inflatable Pool,Beleza,785.56,95
+61,Fashionable Fanny Pack,Beleza,1139.95,64
+62,Patterned Knit Scarf,Moda,1169.61,113
+63,Sliced Olives,Games,1036.57,274
+64,Sesame Garlic Stir-Fry Sauce,Beleza,324.38,225
+65,Sea Salt Caramel Popcorn,Beleza,1180.09,171
+66,Wireless Earbuds Case,Games,1154.92,121
+67,LED Christmas Lights,Acessorios,791.08,255
+68,Asian Salad Mix,Games,210.3,41
+69,Chili Garlic Sauce,Casa,841.2,15
+70,Coconut Cream Pie Yogurt,Eletrônicos,872.66,49
+71,Oven-Baked Sweet Potato Fries,Moda,1371.45,27
+72,Compressed Towel Tablets,Acessorios,1448.22,252
+73,Desk Lamp with USB Port,Casa,52.44,249
+74,Organic Green Apples,Beleza,1323.18,217
+75,Teriyaki Chicken Bowl,Games,227.25,220
+76,Self-Massaging Pillow,Casa,802.15,24
+77,Car Seat Organizer,Beleza,511.19,238
+78,Maple Bacon Jerky,Casa,398.85,151
+79,Rainbow Veggie Chips,Beleza,371.98,76
+80,Smartphone Gimbal,Acessorios,52.35,247
+81,Smartphone Tripod,Casa,736.19,291
+82,Apricot Jam,Eletrônicos,1002.48,32
+83,Fruit Medley Juice,Casa,1386.45,209
+84,Avocado Oil,Casa,675.89,203
+85,USB-C Hub,Beleza,779.73,150
+86,Soft Plush Throw Blanket,Acessorios,18.49,102
+87,Tailored Blazer,Casa,699.4,132
+88,Vegetable Stir-Fry Sauce,Casa,1027.91,190
+89,Rustic Wooden Picture Frame,Moda,79.4,143
+90,Customizable Wall Calendar,Acessorios,497.43,24
+91,Marinara Sauce,Moda,1244.44,42
+92,Blue Denim Jeans,Casa,48.89,224
+93,Window Blinds,Casa,115.67,142
+94,Adjustable Standing Desk,Games,600.63,87
+95,Digital Stopwatch Timer,Acessorios,225.1,298
+96,Cranberry Almond Biscotti,Acessorios,627.7,6
+97,Field Journal,Casa,1301.37,14
+98,Protein Powder,Moda,407.23,59
+99,Adjustable Laptop Stand,Casa,119.42,295
+100,Smart Thermostat with Wi-Fi,Casa,905.35,127
+101,Maple Breakfast Sausage,Eletrônicos,868.49,131
+102,Portable Air Compressor,Casa,621.57,230
+103,Frozen Salmon Filets,Eletrônicos,382.8,119
+104,Tea Set with Infuser,Games,1136.56,214
+105,Homestyle Chicken Noodle Soup,Acessorios,623.04,243
+106,Overnight Hiking Backpack,Acessorios,1356.12,166
+107,Teriyaki Stir-Fry Sauce,Acessorios,1038.19,228
+108,Wireless Earbuds,Beleza,297.91,275
+109,Bluetooth Car Adapter,Games,868.2,272
+110,Rolling Cooler,Moda,477.64,4
+111,Drone,Games,719.95,242
+112,Portable Refrigerator Freezer,Eletrônicos,704.1,55
+113,Coconut Milk,Beleza,696.08,265
+114,Bamboo Bathtub Caddy,Eletrônicos,634.19,133
+115,Personalized Keychain,Eletrônicos,731.11,259
+116,LED Flashlight,Moda,757.28,205
+117,Rechargeable Battery Organizer,Moda,1162.03,212
+118,Pineapple Rings,Games,139.2,29
+119,Black Bean & Corn Salad,Games,792.82,95
+120,Maple Cinnamon Almonds,Beleza,1390.24,261
